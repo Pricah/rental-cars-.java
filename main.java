@@ -2,8 +2,8 @@ package src;
 
 import models.Car;
 import models.Customer;
-import models.RentalTransaction;
-import services.RentalAgency;
+import models.transaction;
+import services.agency;
 
 import java.util.Scanner;
 
