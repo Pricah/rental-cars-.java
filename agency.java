@@ -2,7 +2,7 @@ package services;
 
 import models.Car;
 import models.Customer;
-import models.RentalTransaction;
+import models.Transaction;
 import java.util.ArrayList;
 import java.util.List;
 
